@@ -1,3 +1,4 @@
+// Student Name: Navalrag V P Roll No: 44
 import java.util.Scanner;
 
 public class Factorial {
@@ -15,4 +16,5 @@ public class Factorial {
         System.out.println("The factorial of " + number + " is: " + factorial);
         scanner.close();
     }
+
 }
